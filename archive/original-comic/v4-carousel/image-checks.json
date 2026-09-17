@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "01-cooking.png",
+    "Width": 1086,
+    "Height": 1448,
+    "Ratio": 0.75,
+    "Bytes": 2004022
+  },
+  {
+    "Name": "02-power-outage.png",
+    "Width": 1086,
+    "Height": 1448,
+    "Ratio": 0.75,
+    "Bytes": 1694901
+  },
+  {
+    "Name": "03-meeting.png",
+    "Width": 1086,
+    "Height": 1448,
+    "Ratio": 0.75,
+    "Bytes": 2051376
+  },
+  {
+    "Name": "04-sharing-offer.png",
+    "Width": 1086,
+    "Height": 1448,
+    "Ratio": 0.75,
+    "Bytes": 2083361
+  },
+  {
+    "Name": "05-wait-a-moment.png",
+    "Width": 1086,
+    "Height": 1448,
+    "Ratio": 0.75,
+    "Bytes": 2079909
+  },
+  {
+    "Name": "06-toppings.png",
+    "Width": 1086,
+    "Height": 1448,
+    "Ratio": 0.75,
+    "Bytes": 2199125
+  },
+  {
+    "Name": "07-hallway-light-on.png",
+    "Width": 1086,
+    "Height": 1448,
+    "Ratio": 0.75,
+    "Bytes": 2284722
+  },
+  {
+    "Name": "08-next-time.png",
+    "Width": 1086,
+    "Height": 1448,
+    "Ratio": 0.75,
+    "Bytes": 2260092
+  }
+]

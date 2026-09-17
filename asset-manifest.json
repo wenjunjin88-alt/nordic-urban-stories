@@ -1,0 +1,198 @@
+[
+  {
+    "path": "archive/original-comic/01-cover-tingdian.png",
+    "bytes": 1877879,
+    "sha256": "3891e61fb673660dc1494506a93e0d2935de3df96c9fecf08cbbc88d813d43e4",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "archive/original-comic/06-toppings-sausage.png",
+    "bytes": 2097843,
+    "sha256": "2af1ed26fe6fbc7e3e4dec805bc88a68c65a321a28c2d6e5bb6c56b18ea7adca",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "archive/original-comic/half-bowl-noodles-style13-v1.png",
+    "bytes": 2872619,
+    "sha256": "17915768fb41e25792a2bcdeb869cb45ffc6a08e5abb73ef375caaf4be5d49c2",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "path": "archive/original-comic/half-bowl-noodles-v1.png",
+    "bytes": 2619957,
+    "sha256": "3b13ec6f6b4381cbfc686b0321cc7efe83bb21ba9afaf942f8e37add1226890c",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "path": "archive/original-comic/half-bowl-noodles-v3-page1.png",
+    "bytes": 2421232,
+    "sha256": "d6cd1bb5c88ddad7f7f2df34ecfe0ae84064bf3c506a1f28c21ff6b3d725ee40",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "path": "archive/original-comic/half-bowl-noodles-v3-page2.png",
+    "bytes": 2349930,
+    "sha256": "033195e878026755beaac84c92dc1aebe3f8c1fc9cd62c6578d9cb2c17ce9a70",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "path": "archive/original-comic/numbered-edits/4.png",
+    "bytes": 2046659,
+    "sha256": "c5338a0a23821612d951410f6fcf045860f5e1f22af8226b3f456b495b2e616b",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "archive/original-comic/numbered-edits/6.png",
+    "bytes": 2110986,
+    "sha256": "0e228c2285b044dbfda1a61073f94222bf9e9650fa005a71487c7ca801e6f7d9",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "archive/original-comic/references/style13-paper-folk.png",
+    "bytes": 2426454,
+    "sha256": "4fee20799a3fbe8d07309b540d53f08b0e9517d0f8ffc75011c6dc4c842ec4d1",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "path": "archive/original-comic/v4-carousel/01-cooking.png",
+    "bytes": 2004022,
+    "sha256": "de9ee968a447e6b6a8d85f9a33cddc9ccc680a6be806124bf0f255bd64c111f3",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "archive/original-comic/v4-carousel/02-power-outage.png",
+    "bytes": 1694901,
+    "sha256": "3e011cd1e8a083fbafa0bc0285dc6728f2ffcb99bd72a7e07ac60bebc43b4e5e",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "archive/original-comic/v4-carousel/03-meeting.png",
+    "bytes": 2051376,
+    "sha256": "4ee1ec855c6c73fc2404f4a182b95adc961bdce911a5a2699b697e0246884ae1",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "archive/original-comic/v4-carousel/04-sharing-offer.png",
+    "bytes": 2083361,
+    "sha256": "420e5d2d4072aef9f5c78544fd4dc0d1a09e1d95559775fbd7f056e5ff919371",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "archive/original-comic/v4-carousel/05-wait-a-moment.png",
+    "bytes": 2079909,
+    "sha256": "613b6ca1c134d4d68059db8f58464f8bc6edf8539481c07a55465e9ee2ad4900",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "archive/original-comic/v4-carousel/06-toppings.png",
+    "bytes": 2199125,
+    "sha256": "a82577d02a0d44a849c560787ca409c84ee993be84e3bf88cb23296cb8aafc4d",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "archive/original-comic/v4-carousel/07-hallway-light-on.png",
+    "bytes": 2284722,
+    "sha256": "9c09f34931f573739c5b1d8ff210f1cbf32786320cd5b687399eb63e4993a5ab",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "archive/original-comic/v4-carousel/08-next-time.png",
+    "bytes": 2260092,
+    "sha256": "21bbecd8382069e8f44e15b234b37ed11be38741ebfc65dc8c13a9732768b940",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "episodes/01-tingdian/images/01-cooking.png",
+    "bytes": 1877879,
+    "sha256": "3891e61fb673660dc1494506a93e0d2935de3df96c9fecf08cbbc88d813d43e4",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "episodes/01-tingdian/images/02-power-outage.png",
+    "bytes": 1694901,
+    "sha256": "3e011cd1e8a083fbafa0bc0285dc6728f2ffcb99bd72a7e07ac60bebc43b4e5e",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "episodes/01-tingdian/images/03-meeting.png",
+    "bytes": 2051376,
+    "sha256": "4ee1ec855c6c73fc2404f4a182b95adc961bdce911a5a2699b697e0246884ae1",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "episodes/01-tingdian/images/04-sharing-offer.png",
+    "bytes": 2083361,
+    "sha256": "420e5d2d4072aef9f5c78544fd4dc0d1a09e1d95559775fbd7f056e5ff919371",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "episodes/01-tingdian/images/05-wait-a-moment.png",
+    "bytes": 2079909,
+    "sha256": "613b6ca1c134d4d68059db8f58464f8bc6edf8539481c07a55465e9ee2ad4900",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "episodes/01-tingdian/images/06-toppings.png",
+    "bytes": 2199125,
+    "sha256": "a82577d02a0d44a849c560787ca409c84ee993be84e3bf88cb23296cb8aafc4d",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "episodes/01-tingdian/images/07-hallway-light-on.png",
+    "bytes": 2284722,
+    "sha256": "9c09f34931f573739c5b1d8ff210f1cbf32786320cd5b687399eb63e4993a5ab",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "episodes/01-tingdian/images/08-next-time.png",
+    "bytes": 2260092,
+    "sha256": "21bbecd8382069e8f44e15b234b37ed11be38741ebfc65dc8c13a9732768b940",
+    "width": 1086,
+    "height": 1448
+  },
+  {
+    "path": "references/inspiration/1-Photo-1.jpg",
+    "bytes": 61338,
+    "sha256": "5d9bfcf9853b54031c49a29641111558f4916b8dafd5e6de1d823cda9f4ff98c",
+    "width": 591,
+    "height": 1280
+  },
+  {
+    "path": "references/inspiration/2-Photo-2.jpg",
+    "bytes": 75756,
+    "sha256": "98207ad7ec168dce0921a0ace4cda95cb58ab6870a4603e66c1ee35f3fd752e5",
+    "width": 591,
+    "height": 1280
+  },
+  {
+    "path": "references/inspiration/3-Photo-3.jpg",
+    "bytes": 75224,
+    "sha256": "67309b0111934407347dd6055f928f4b5742a575660fe7b1b16a99124d003cb5",
+    "width": 591,
+    "height": 1280
+  }
+]
